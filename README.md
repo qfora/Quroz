@@ -1,2 +1,2 @@
-# Quroz
-ERC20 token
+# Quroz Token
+ERC20 token for Qfora App
